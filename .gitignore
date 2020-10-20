@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/altApp.js
+/pokedex.json
+/playStore.js
+/store.js
